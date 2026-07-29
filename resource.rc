@@ -1,0 +1,3 @@
+//resource.rc
+
+IDI_ICON1 ICON "app.ico"
