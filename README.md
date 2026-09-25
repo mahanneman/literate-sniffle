@@ -5,6 +5,7 @@ A **lightweight, standalone Windows utility** that blocks internet access for se
 > **Personal use case:** I created this tool to block internet access for **SOLIDWORKS** and **CATIA** to prevent license validation pop-ups and unwanted automatic updates, but it works for any Windows application.
 
 ---
+<img width="1594" height="851" alt="image" src="https://github.com/user-attachments/assets/27dbc76f-44be-43d6-b854-28e2f25cdc7b" />
 
 ## 📌 Overview
 
